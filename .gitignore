@@ -1,0 +1,10 @@
+*.dic
+*.csv
+*.txt
+*ns0
+*.db
+neologd/*csv
+neologd/*txt
+neologd/mecab-ipadic-neologd
+wordnet/data
+unidic/*.zip
